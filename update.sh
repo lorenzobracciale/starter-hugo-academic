@@ -5,8 +5,8 @@ if [ -z "$1" ]; then
   exit 1
 else
   hugo
-
   git add public
+  git add . 
   git commit -am "$1"
   git push
 fi
