@@ -24,6 +24,10 @@ main:
     url: '/courses/network-softwarization'
     weight: 40
     parent: courses
+  - name: Digital Health
+    url: '/courses/digital-health'
+    weight: 40
+    parent: courses
   - name: Publications
     url: '#featured'
     weight: 50
