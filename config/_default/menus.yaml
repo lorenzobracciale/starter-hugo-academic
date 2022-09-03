@@ -18,7 +18,7 @@ main:
     weight: 40
   - name: Courses
     identifier: courses
-    url: '#courses'
+    url: '/courses'
     weight: 40
   - name: Network Softwarization   
     url: '/courses/network-softwarization'
