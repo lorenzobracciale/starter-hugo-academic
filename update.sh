@@ -5,10 +5,12 @@ if [ -z "$1" ]; then
   exit 1
 else
   hugo
-  git add public
   git add . 
   git commit -am "$1"
   git push
+  cd public
+  git add .
+  git commit -am "$1"
 fi
 # update publications
 # go to https://www.scopus.com/authid/detail.uri?authorId=24722537100 and export .bib
