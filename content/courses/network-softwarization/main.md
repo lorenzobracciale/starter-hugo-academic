@@ -1,8 +1,8 @@
 ---
-title: Example Page 1
-date: 2019-05-05
+title: Index
+date: 2022-09-02
 type: book
 ---
 
-Content...
+Under construction
 

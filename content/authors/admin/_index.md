@@ -18,9 +18,9 @@ bio: My research interests include machine learning, data privacy and eHealth.
 
 # Interests to show in About widget
 interests:
-  - Data Privacy
-  - Machine Learning
   - Distributed Systems
+  - Machine Learning
+  - Applied Cryptography
   - Digital Health
 
 # Education to show in About widget
