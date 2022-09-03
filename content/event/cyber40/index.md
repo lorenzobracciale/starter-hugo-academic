@@ -1,7 +1,7 @@
 ---
 title: Scenari di Cyber Threat Information Sharing per la Sanità Digitale
 
-event: Sanità digitale: il futuro passa per la cybersecurity
+event: Sanita' digitale: il futuro passa per la cybersecurity
 event_url: https://www.cyber40.it/news/sanita-digitale-il-futuro-passa-per-la-cybersecurity/
 
 location: Online
