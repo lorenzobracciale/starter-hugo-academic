@@ -25,7 +25,7 @@ main:
     weight: 40
     parent: courses
   - name: Digital Health
-    url: '/courses/digital-health'
+    url: '/courses/digital-health/main'
     weight: 40
     parent: courses
   - name: Publications
