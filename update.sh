@@ -4,11 +4,11 @@ if [ -z "$1" ]; then
   echo "You need to specify the changes to commit as an argument"
   exit 1
 else
+  hugo
   git add . 
   git add public
   git commit -am "$1"
   git push
-  hugo
   git add . 
   cd public
   git add .

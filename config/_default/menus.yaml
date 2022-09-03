@@ -17,8 +17,13 @@ main:
     url: '#talks'
     weight: 40
   - name: Courses
+    identifier: courses
     url: '#courses'
     weight: 40
+  - name: Network Softwarization   
+    url: '/courses/network-softwarization'
+    weight: 40
+    parent: courses
   - name: Publications
     url: '#featured'
     weight: 50
