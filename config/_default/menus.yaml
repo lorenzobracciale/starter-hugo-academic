@@ -21,7 +21,7 @@ main:
     url: '/courses'
     weight: 40
   - name: Network Softwarization   
-    url: '/courses/network-softwarization'
+    url: '/courses/network-softwarization/main'
     weight: 40
     parent: courses
   - name: Digital Health
