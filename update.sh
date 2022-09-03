@@ -11,6 +11,7 @@ else
   cd public
   git add .
   git commit -am "$1"
+  git push
 fi
 # update publications
 # go to https://www.scopus.com/authid/detail.uri?authorId=24722537100 and export .bib
