@@ -51,13 +51,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/lorenzo-bracciale-5628855/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+    # Link to a PDF of your resume/CV.
+    # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+    # and uncomment the lines below.
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -68,4 +67,4 @@ highlight_name: true
 I am an Assistant Professor at the University of Rome "Tor Vergata". My research interest are in distributed systems. I like to apply [cryptograpic, machine learning] algorithms to different verticals. Currently I teach Fundamentals of Computer Science, Web Technology, Digtal Health and Network Softwarization. I like to have impact in everyday life, that's why I founded several startups whose product have been used by thousands of users.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
