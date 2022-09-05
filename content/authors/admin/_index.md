@@ -14,7 +14,7 @@ organizations:
     url: https://www.uniroma2.it/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, data privacy and eHealth.
+bio: My research interests include distributed systems, machine learning, data privacy and eHealth.
 
 # Interests to show in About widget
 interests:
@@ -64,7 +64,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an Assistant Professor at the University of Rome "Tor Vergata". My research interest are in distributed systems. I like to apply [cryptograpic, machine learning] algorithms to different verticals. Currently I teach Fundamentals of Computer Science, Web Technology, Digtal Health and Network Softwarization. I like to have impact in everyday life, that's why I founded several startups whose product have been used by thousands of users.
+I am an Assistant Professor at the University of Rome "Tor Vergata". My research interests are distributed systems, data privacy, eHealth. I like to apply {cryptograpic, machine learning} algorithms to solve real problems in different verticals. Currently I teach Fundamentals of Computer Science, Web Technology, Digtal Health and Network Softwarization. I like to have impact in everyday life, that's why I founded several startups whose product have been used by thousands of users.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

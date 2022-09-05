@@ -27,8 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Animal Monitoring
+      tag: 'Animal Monitoring'
+    - name: Machine Learning
+      tag: 'Machine Learning'
+    - name: Cybersecurity
+      tag: 'Cybersecurity'
+    - name: eHealth
+      tag: 'eHealth'
     - name: Other
       tag: Demo
 

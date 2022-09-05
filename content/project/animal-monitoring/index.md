@@ -9,14 +9,10 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Temporary photo
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -29,5 +25,5 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-TODO: Together with Dr. P.Loreti (electrical engineering) and Dr. G.Gentile and G.Colosimo, I partecipate in the the project of conservancy of the critically endangered specie Pink Iguana
-![Example image](/static/device_wiguana.png)
+Work in progress: I am joining a research activity for the conservation of the [Pink Iguana](https://en.wikipedia.org/wiki/Conolophus_marthae) (__Conolophus marthae__), a critically endangered specie of iguana living in the Galapagos Islands.
+![Example image](/device_wiguana.png)
