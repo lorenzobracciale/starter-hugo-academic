@@ -24,18 +24,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: ''
-    date_end: '2021'
-    date_start: '2010'
+    date_end: ''
+    date_start: '2021-01-25'
     description: 'Technology provider for smart mobility'
     organization: Sharigo
     organization_url: ''
-    description: Mobility solutions
+    description: Smart mobility solutions
     title: Sharigo 
     url: ''
   - certificate_url: ''
     date_end: ''
-    date_start: '2018'
-    description: 'Professional software for physicians'
+    date_start: '2021-01-25'
+    description: 'Medical practice management software'
     organization: Docunque
     organization_url: ''
     title: Docunque
