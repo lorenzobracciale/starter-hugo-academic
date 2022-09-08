@@ -10,6 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
+active: false 
 subtitle:
 
 # Date format for experience
