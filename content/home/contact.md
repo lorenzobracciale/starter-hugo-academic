@@ -36,7 +36,7 @@ content:
   coordinates:
     latitude: '41.8545778094004'
     longitude: '12.62399086227356'
-  directions:  Fourth floor of Information engineering, room B4-15
+  directions:  Room B4-15
 
 design:
   columns: '2'
