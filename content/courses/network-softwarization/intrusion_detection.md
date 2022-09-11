@@ -536,7 +536,7 @@ if DO_PLOTTING:
 
 
     
-![png](output_18_0.png)
+![png](/output_18_0.png)
     
 
 
@@ -579,7 +579,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](/output_21_0.png)
     
 
 
