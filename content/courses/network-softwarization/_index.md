@@ -5,7 +5,7 @@ title: Network Softwarization
 linktitle: Courses
 
 # Page summary for search engines.
-summary: Network Softwarization course for ICT and Internet Engineering, University of Rome "Tor Vergata".
+summary: Network Softwarization course for ICT and Internet Engineering, University of Rome Tor Vergata
 
 # Date page published
 date: 2022-09-02

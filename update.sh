@@ -19,3 +19,7 @@ fi
 # go to https://www.scopus.com/authid/detail.uri?authorId=24722537100 and export .bib
 # then import into HUGO as 
 # academic import --bibtex my_publications.bib
+
+
+# hugo mod clean
+# hugo mod get -u ./...
