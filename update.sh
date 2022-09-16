@@ -20,6 +20,6 @@ fi
 # then import into HUGO as 
 # academic import --bibtex my_publications.bib
 
-
+# in case of problems
 # hugo mod clean
 # hugo mod get -u ./...
