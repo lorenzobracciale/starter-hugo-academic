@@ -2,7 +2,7 @@
 title: Pandas Tutorial
 date: 2022-09-19
 type: book
-weight: 20 
+weight: 20
 ---
 
 
