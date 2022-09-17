@@ -1,5 +1,5 @@
 ---
-title: 'Come funziona il Green Pass'
+title: 'How Digital Green Certificate (aka Green Pass) works'
 event: 'Technical explaination of the technology behind the Digital Green Certificate'
 event_url: ''
 location: University of Rome Tor Vergata
