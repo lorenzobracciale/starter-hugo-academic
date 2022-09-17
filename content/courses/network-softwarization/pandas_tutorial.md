@@ -1,8 +1,10 @@
 ---
 title: Pandas Tutorial
-date: 2022-09-17
+date: 2022-09-19
 type: book
 ---
+
+
 
 _Course of Network Softwarization_
 
@@ -355,22 +357,22 @@ print(df.iloc[0,0])
 
 
 print("\n** Second column **")
-print(df.iloc[:,2]) 
+print(df.iloc[:,1]) 
 ```
 
     ** First row **
     A    1
-    B    3
-    C    5
+    B    4
     Name: X, dtype: int64
     
      ** First row, First column **
     1
     
     ** Second column **
-    X    5
-    Y    6
-    Name: C, dtype: int64
+    X    4
+    Y    5
+    Z    6
+    Name: B, dtype: int64
 
 
 Or use _label-based_ selection with `loc`:
@@ -920,9 +922,8 @@ df.dtypes # to watch all the dtypes
 
     A     int64
     B     int64
-    C     int64
-    F    object
     D    object
+    C     int64
     dtype: object
 
 
@@ -1211,16 +1212,9 @@ As happens for many Pandas commands, we can specify that with the `axis` paramet
 print(pd.concat([df1, df2], axis=1)) #concat the columns
 ```
 
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    Input In [66], in <cell line: 1>()
-    ----> 1 print(pd.concat([df1, df2], axis=1))
-
-
-    NameError: name 'df1' is not defined
+        A   B   C   A   B   C
+    0  AO  B0  C0  A2  B2  C2
+    1  A1  B1  C1  A3  B3  C3
 
 
 `merge` is more complicated since there are many forms of join:
@@ -1242,19 +1236,19 @@ Using merge with default arguments results in an inner join.
 df1 = pd.DataFrame({'a': ['foo', 'bar'], 'b': [1, 2]})
 df2 = pd.DataFrame({'a': ['foo', 'baz'], 'c': [3, 4]})
 
-print("DF1")
+print("DataFrame1")
 print(df1)
 
-print("\nDF2")
+print("\nDataFrame2")
 print(df2)
 ```
 
-    DF1
+    DataFrame1
          a  b
     0  foo  1
     1  bar  2
     
-    DF2
+    DataFrame2
          a  c
     0  foo  3
     1  baz  4
