@@ -14,14 +14,7 @@ location: Facoltà di Ingegneria
 #  postcode: '94305'
 #  country: United States
 
-summary: Creato 50 anni fa e ancora ampiamente utilizzato, il linguaggio C ha
-avuto e continua ad avere un ruolo fondamentale nell'informatica.
-Partendo dalla sua invenzione insieme a Unix nei Bell Labs, vedremo come
-si è evoluto e diffuso, quali sono le sue più importanti applicazioni
-del presente e nel passato, e chi sono stati i "guru" più influenti.
-Discuteremo anche delle sue limitazioni che motivano l'affermarsi di
-nuove alternative come RUST, e di alcuni trends tecnologici ed evolutivi
-moderni legati a questo linguaggio.
+summary: Creato 50 anni fa e ancora ampiamente utilizzato, il linguaggio C ha avuto e continua ad avere un ruolo fondamentale nell'informatica. Partendo dalla sua invenzione insieme a Unix nei Bell Labs, vedremo come si è evoluto e diffuso, quali sono le sue più importanti applicazioni del presente e nel passato, e chi sono stati i "guru" più influenti.  Discuteremo anche delle sue limitazioni che motivano l'affermarsi di nuove alternative come RUST, e di alcuni trends tecnologici ed evolutivi moderni legati a questo linguaggio.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
