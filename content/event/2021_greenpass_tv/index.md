@@ -1,5 +1,5 @@
 ---
-title: 'How Digital Green Certificate (aka Green Pass) works'
+title: 'How the Digital Green Certificate (aka Green Pass) works'
 event: 'Technical explaination of the technology behind the Digital Green Certificate'
 event_url: ''
 location: University of Rome Tor Vergata
@@ -11,7 +11,7 @@ address:
   #  postcode: '94305'
   country: Italy
 
-summary: Cooperation is a fundamental piece to protect healthcare infrastructures from the increasing number of threats
+summary: 'Technical explaination of the technology behind the Digital Green Certificate'
 abstract: 'The Digital Green Certificate (aka Green Pass) is the instrument that the European Union has put in place to counter the Covid-19 emergency.
 In this seminar we will see its operating principles and the technologies that have been used for issuing and verifying it.
 We will find out how a DGC can be verified offline, how interoperability between health systems of different countries is achieved, and what the attacks on the Green Pass in recent months are based on.'
