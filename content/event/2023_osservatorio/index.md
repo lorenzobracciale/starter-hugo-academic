@@ -11,7 +11,7 @@ address:
   country: Italy
 
 summary: "Resoconto dell'analisi delle vulnerabilità nei dispositivi acquistati dalla Pubblica Amministrazione"
-abstract: 'test' 
+#abstract: 'test' 
 
 
 # Talk start and end times.
