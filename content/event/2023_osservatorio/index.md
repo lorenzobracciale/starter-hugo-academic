@@ -1,5 +1,5 @@
 ---
-title: 'Dall\'osservatorio alla definizione di un indice di rischio ospedaliero'
+title: "Dall'osservatorio alla definizione di un indice di rischio ospedaliero"
 event: "2023 Workshop cyber4health"
 event_url: https://cyber4health.uniroma2.it/ 
 
@@ -10,16 +10,14 @@ address:
   postcode: '00133'
   country: Italy
 
-summary: Resoconto dell'analisi delle vulnerabilità nei dispositivi acquistati dalla Pubblica Amministrazione
-abstract: '
-    {{< youtube rwnA7r7bqUo>}}
-'
+summary: "Resoconto dell'analisi delle vulnerabilità nei dispositivi acquistati dalla Pubblica Amministrazione"
+abstract: 'test' 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-17-01T09:30:00Z'
-date_end: '2023-17-01T13:00:00Z'
+date: '2023-05-17T09:30:00Z'
+date_end: '2023-05-17T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
