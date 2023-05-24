@@ -36,10 +36,10 @@ image:
   focal_point: Right
 
 links:
-url_code: ''
+url_code: 'https://cyber4health.uniroma2.it/'
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=rwnA7r7bqUo&ab_channel=CybersecurityItalia'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
