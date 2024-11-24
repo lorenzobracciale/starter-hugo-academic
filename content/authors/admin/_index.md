@@ -64,7 +64,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an Assistant Professor at the University of Rome "Tor Vergata". My research interests are distributed systems, data privacy, eHealth. I apply cryptographic and machine learning algorithms to problems in different verticals. Currently, I teach Fundamentals of Computer Science, Web Technology, Digtal Health and Network Softwarization. I like to create digital solutions used by thousands of users with technological startups.
+I am an Assistant Professor at the University of Rome "Tor Vergata". My research interests are security & privacy, distributed systems, eHealth. I apply cryptographic and machine learning algorithms to problems in different verticals. Currently, I teach Computer Science, Web Technology and Digital Health. I like to create digital solutions used by thousands of users with technological startups.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
