@@ -10,7 +10,7 @@ address:
   postcode: '80136'
   country: Italy
 
-summary: "Resoconto dell'analisi delle vulnerabilità nei dispositivi acquistati dalla Pubblica Amministrazione"
+summary: "Talk su Intelligenza artificiale e telemedicina al Congresso Nazionale di Medicina Geriatrica (FIMeG). A seguire, valutazione mediante intelligenza artificiale di un paziente fragile"
 #abstract: 'test' 
 
 
